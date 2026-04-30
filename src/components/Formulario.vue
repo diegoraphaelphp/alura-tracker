@@ -9,6 +9,7 @@
         <input
           type="text"
           class="input"
+          autofocus
           placeholder="Qual tarefa você deseja iniciar?"
           v-model="descricao"
         />
